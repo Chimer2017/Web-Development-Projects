@@ -1,0 +1,49 @@
+body {
+  width: 960px;
+  margin: auto;
+  border: 20px solid grey;
+}
+
+
+h2 {
+  color: blue;
+  font-family: sans-serif;
+  font-weight: 300;
+  letter-spacing: 3px;
+  font-size: 18px;
+  padding-top: 10px;
+  padding bottom: 20px;
+  margin-left: 1.66%;
+}
+
+h1 {
+  color: black;
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 36px;
+  margin-left: 1.66%;
+
+}
+
+p {
+  margin-left: 1.66%;
+  font-size: 16px;
+  font-family: serif;
+  letter-spacing: normal;
+  width: 96.98%;
+}
+
+.first {
+  border-left: 6px solid gray;
+  padding-left: 3px;
+  letter-spacing: normal;
+}
+
+.art {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+hr {
+  width: 96.98%;
+}

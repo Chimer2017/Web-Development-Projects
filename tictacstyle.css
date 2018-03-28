@@ -1,0 +1,68 @@
+table {
+  align-self: center;
+}
+
+div {
+  background: yellow;
+  width:auto;
+}
+
+body {
+  background: red;
+}
+
+
+
+td {
+  width: 200px;
+  height: 200px;
+  background: blue;
+  text-align: center;
+  font-size: 36px;
+  color:orange;
+}
+
+h1  {
+  text-align: center;
+  text-decoration: underline;
+}
+
+/* #UL {
+  border-bottom: 2px solid black;
+
+} */
+
+#LC {
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-color: orange;
+
+}
+
+#UC {
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  border-color: orange;
+
+  border-bottom: 2px solid black;
+}
+/* #UR {
+  border-bottom: 2px solid black;
+} */
+
+#ML {
+  border-color: orange;
+
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+#MR {
+  border-color: orange;
+
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+}
